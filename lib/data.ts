@@ -22,6 +22,14 @@ export const projectsData: Project[] = [
     description: "An AI-assisted student job application tracking system that automates pipeline tracking and securely extracts interview schedules directly from email data.",
     techStack: ["Next.js", "React", "PostgreSQL", "Tailwind CSS", "MLOps"],
     githubUrl: "https://github.com/MAYANKCHORADIA/CareerCRM",
+  },
+  {
+    id: "mockingbird",
+    title: "MockingBird",
+    description: "A developer tool for instantly provisioning dynamic HTTP mock endpoints. Customize JSON payloads, simulate network latency, and test edge cases — no backend code required.",
+    techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+    githubUrl: "https://github.com/MAYANKCHORADIA/MockingBird",
+    liveUrl: "https://mocking-bird-xdph.vercel.app/"
   }
 ];
 
